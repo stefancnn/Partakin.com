@@ -572,7 +572,8 @@ A text can be defined, in case there is no text defined the entire block will be
 
 ```toml
 [params]
-    about_us = "As a volunteering organization working on fulfilling the Great Commission we are unequivocally ready to go to tribes, nations, and languages as decreed by the Lord. We are not alone as the Lord promised to be with us even to the end of the age. You can also stand by the side through prayer and financial contribution. By putting our efforts together with usher precious lives into the Kingdom as well as hasten the day of the Lord" 
+    about_us = "We are a group of action-oriented missionary evangelists seeking to fulfill the great call of preaching the Gospel. Will you partake in?
+As a volunteering association working on fulfilling the Great Commission, we are unequivocally determined to go to tribes, nations, and languages as decreed by the Lord of the harvest. We are aware the Lord is with us as He promised to be. You can also stand by the side through prayer and financial contribution. By putting our hands to the plow we can  our efforts together we seek to accomplish two things: (1) usher souls into the Kingdom and (2)  hasten the day of the Lord as Peter once mentioned in 2 Peter 3:12 " 
 ```
 
 ##### Recent posts
