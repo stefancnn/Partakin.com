@@ -572,7 +572,7 @@ A text can be defined, in case there is no text defined the entire block will be
 
 ```toml
 [params]
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "As a volunteering organization working on fulfilling the Great Commission we are unequivocally ready to go to tribes, nations, and languages as decreed by the Lord. We are not alone as the Lord promised to be with us even to the end of the age. You can also stand by the side through prayer and financial contribution. By putting our efforts together with usher precious lives into the Kingdom as well as hasten the day of the Lord" 
 ```
 
 ##### Recent posts
